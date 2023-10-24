@@ -1,6 +1,6 @@
 ## Installation
-First,you must have nodejs enviroment
-second, run ```npm i``` to install the dependencies
+First,you must have nodejs enviroment   
+second, run ```npm i``` to install the dependencies    
 then, run ` npm start` 
 
 ![Alt text](image.png)
